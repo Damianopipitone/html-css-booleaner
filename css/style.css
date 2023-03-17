@@ -11,3 +11,11 @@ stan {
 ul{
     padding-left:10px;
 }
+
+table{
+    padding-left: 0px;
+}
+
+.stripe{
+    background-color: aqua;
+}
