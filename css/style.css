@@ -16,6 +16,20 @@ table{
     padding-left: 0px;
 }
 
-.stripe{
+.stripe1{
     background-color: aqua;
+}
+
+.stripe2{
+    background-color:rgb(0, 137, 137);
+}
+
+.stripe3{
+    background-color: azure;
+}
+
+footer{
+    background-color: rgb(0, 63, 172);
+    background-position: bottom center;
+    /* background-color:  rgb(0, 63, 172); */
 }
